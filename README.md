@@ -351,7 +351,7 @@ There are three types of data transmission more depending on the flow of data tr
   </tr>
 
 </table>
-<> </p>
+</p>
 
 </font>
 </body>
