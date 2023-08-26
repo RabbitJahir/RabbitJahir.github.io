@@ -339,7 +339,7 @@ There are three types of data transmission more depending on the flow of data tr
    <td>Can only be Simplex</td>
    <td>Can only be Half-Duplex</td>
   </tr>
-  <tr
+  <tr>
     <td>One sender sends data to many receiver one at the time.</td>
     <td>One sender send the same data to all the receivers.</td>
     <td>Sender sends data to all the receivers, but the receiever can choose which to receieve the data or not</td>
