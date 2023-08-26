@@ -3,7 +3,7 @@
 <body>
     
 <img
-src="file:/storage/emulated/0/MyAlbums/damn/IAmDelicious.jpg ">
+src="IAmDelicious.jpg">
 <font size="+3">     
     
     <title>ICT</title>
