@@ -352,6 +352,90 @@ There are three types of data transmission more depending on the flow of data tr
 </table>
 </p>
 
+<p>
+<h3 align="center">Mobile Generations</h3>
+<table border="1" widtd="100%">
+
+ <tr>
+   <th>1G</th> 
+   <th>2G</th> 
+   <th>3G</th>
+   <th>4G</th>
+ </tr>
+ 
+ <tr>
+   <td>1979-1990, started in USA.</td>
+   <td>1990-2000, Commercially lounched in Finland by Radiolinja in 1991.</td>
+   <td>2001-2008, First introduced by japanese company NTT Docamo.</td>
+   <td>2009-still, First started in Soutd Korea.</td>
+ </tr>
+ 
+ <tr>
+   <td>Analog Signal System</td>
+   <td>Digital Signal System</td>
+   <td>Digital Signal System</td>
+   <td>Digital Signal System</td>
+ </tr>
+ 
+ <tr>
+   <td>FDMA channel access</td>
+   <td>FDMA, TDMA, CDMA channel access</td>
+   <td>TD-CDMA channel access</td>
+   <td>LTE channel access</td>
+ </tr>
+ 
+ <tr>
+   <td>NMT technology</td>
+   <td>GSM, CDMA technology</td>
+   <td>EDGE, CDMA-2000 technology</td>
+   <td>WiMAX,Wi-Fi technology</td>
+ </tr>
+ 
+ <tr>
+   <td>Circuit switching</td>
+   <td>Packet switching</td>
+   <td>Packet switching</td>
+   <td>Packet switching</td>
+ </tr>
+ 
+ <tr>
+   <td>Data transfer rate around (2.4-14.4) kbps</td>
+   <td>Data transfer rate around 14.4+ kbps</td>
+   <td>Data transfer rate 3+ Mbps</td>
+   <td>Data transfer rate can cross 100 Mbps</td>
+ </tr>
+ 
+ <tr>
+   <td>Narrowband frequency</td>
+   <td>Narrowband frequency</td>
+   <td>Broadband frequency</td>
+   <td>Ultra Broadband frequency</td>
+ </tr>
+ 
+ <tr>
+   <td>No International Roaming Facilities</td>
+   <td>Limited International Roaming Facilities</td>
+   <td>Has International Roaming Facilities</td>
+   <td>Has International Roaming Facilities</td>
+ </tr>
+ 
+ <tr>
+   <td>Creation of cellular network.</td>
+   <td>Introduces SMS, MMS and voice mail.</td>
+   <td>Beginning of video call.</td>
+   <td>Use of wireless network system WLAN and GPS.</td>
+ </tr>
+ 
+ <tr>
+   <td>If user changes place while talking call disconnects.</td>
+   <td>Provides encryption safety for data protection.</td>
+   <td>Facility of handset interoperobility, mobile app support, TV streaming, 3D games.</td>
+   <td>IP based network.</td>
+ </tr>
+
+</table>
+</p>
+
 </font>
 </body>
 </html>
