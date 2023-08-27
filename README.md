@@ -31,7 +31,7 @@
     </p> 
    
   
-   <table border="1" width="100%">    
+   <table border="1">    
      
    <tr align="left">
        <th>Heading</th>
@@ -55,7 +55,8 @@
        <td align="center">center</td>
        <td align="right">right</td>
      </tr>       
-    </table>    
+    
+   </table>    
     
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
