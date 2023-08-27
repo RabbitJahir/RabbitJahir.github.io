@@ -32,7 +32,7 @@
    
    <p>
    
-   <table border="1">    
+   <table border="1" width="100%">    
      
    <tr align="left">
        <th>Heading</th>
