@@ -29,7 +29,8 @@
       breaking a line in a parah
     </p> 
    
-  
+   <p>
+   
    <table border="1">    
      
    <tr align="left">
@@ -61,6 +62,7 @@
     communication</sub>
     </h1>
    <h1 align="center">Topologies</h1>
+</p>
     
    <p>
                              
