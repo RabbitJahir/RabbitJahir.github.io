@@ -184,8 +184,7 @@ The topology in which computers or various electronic devices are directly inter
    
 <hr>
    
-   
-    <h1 align="center">Tree Topolgy<br></h1>
+   <h1 align="center">Tree Topolgy<br></h1>
   
 In a tree topology, computers or nodes are arranged and connected to each other like branches of a tree. Also known as hierarchical structure of computer network. An extended form of star network. It consists of multiple tiers of computer connected to a central host computer. Different levels of devices are connected to this host computer through network hub or switches according to hierarchy. In this a arrangement, each layers of computer acts as an intermediate host of the text layer's computers. A computer after which no other computer is connected is known as peripheral terminal. Networks of tree topology are easily expandable. In this case the data flow in bidirectional.
     <br>
@@ -214,7 +213,7 @@ In a tree topology, computers or nodes are arranged and connected to each other 
 
 <hr>
 
-    <h1 align="center">Mesh Topolgy<br></h1>
+  <h1 align="center">Mesh Topolgy<br></h1>
 
 A topology when one computer is directly networked with every other computers. Does not require a central server. Relatively fast data exchange. The mutual connection between these networked computes is calad point-to-point link. Also known as completely interconnected topology. This topology is very expensive as a lot of cables are required and has a really complex configuration. The total number of cables can be found by using the formula :  n(n-1)\2. Where 'n' is the total number of devices in a connection. Mesh topology is used in cases where reliability of data communication is important, such as defense or banking.
     <br>
@@ -243,30 +242,25 @@ A topology when one computer is directly networked with every other computers. D
 <li>Network installation and 
     configuration is very complex.</li></ol>
     <br>
-    
-    
+        
 <hr>
 
   <h1 align="center">Hybrid Topolgy<br></h1>
    Hybrid
-   
-  <img src ="/storage/emulated/0/MyAlbums/damn/FB_IMG_1692678944898.jpg" alt="FB_IMG_1692678944898"
-  style="max-width:1180px;" />
-  
-  
-      
+        
 <hr>
-  
-  
-    </p>
+
+ </p>
     
-    <p>
-    <h1 align="center">Bluetooth<br></h1> 
+   <p>
+    
+<h1 align="center">Bluetooth<br></h1> 
 An open wireless technology standard for transmitting electronic data over short distances between any device that has bluetooth connection. 
 <br>#Telecom vender company <b>Ericsson</b> inverted this in 1994. 
 <br>#Named after a king, <b>Harold Bluetooth of Denmark</b>.
         
-       <h3 align="center">Bandwidth</h3>
+ <h3 align="center">Bandwidth</h3>
+
 A synonym often used for data transmission speed. The maximum rate of data or bit transmitted per second is usually expressed in bps (bit per second)
 <br>3 types of bandwidth:
 <br>
@@ -472,7 +466,6 @@ There are three types of data transmission more depending on the flow of data tr
    <td>Consists of multiple data line.</td>
    <td>Consists of single data line.</td>
   </tr>
-  
  </p>
 
 </font>
