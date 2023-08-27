@@ -1,9 +1,6 @@
 <html>
 <body>
-
-<p style="background-image: url('https://www.google.com/search?q=solid+blue&client=ms-android-transsion&sca_esv=560423374&tbm=isch&prmd=isvn&sxsrf=AB5stBghHr5a6cg3YpqsIxX4U6VUEbnXTg:1693110499840&source=lnms&sa=X&ved=2ahUKEwiZxKGPgPyAAxWoSGwGHVXRBSAQ_AUoAXoECAUQAQ&biw=360&bih=659&dpr=2#imgrc=nDFnFkBQmR8jaM');"> 
-</p>
- 
+    
  <font size="+3">     
     
    <p>
@@ -73,7 +70,7 @@
 
    <h1 align="center">Bus Topolgy<br></h1>
 
-In this type topology all types of nodes such as computer, mobile and other devices are connected with one main cable, also called the backbone of Bus Topology. This cable is usually made of co-axial or optical fibre. There are two terminators at both ends of this line.
+In this topology all types of nodes such as computer, mobile and other devices are connected with one main cable, also called the backbone of Bus Topology. This cable is usually made of co-axial or optical fibre. There are two terminators at both ends of this line.
 
 The data flow is bidirectional. When sending data, the sender computer sends the same data to every other connections in the line, but the sender can chose which connection would receive the data and which would not. 
     <br>
@@ -121,7 +118,7 @@ The physical ring topology in which the computer nodes are connected to each oth
 <li>Each computer gets equal Importance.</li>
 <li>Less amount of wiring is needed, so  
     cost is lower. </li>
-<li>Easter to troubleshoot because each 
+<li>Easier to troubleshoot because each 
     device incorporates a repeater.</li>
 <li>By increasing the number of 
     computers one cannot influence it's 
@@ -151,7 +148,7 @@ The physical ring topology in which the computer nodes are connected to each oth
   
    <h1 align="center">Star Topolgy<br></h1>    
 
-The topology in which computers or various electronic devices are directly interconnected through a hub, switch or host computer is known as Star topology. Computers connected here exchange data with the hub, switch or host computer. As a result, less time is required for signal exchange and less chance of signal collision Signal Flow is bidirectional. It is easier to identify problems as there a central computer. Various types of cables are used in this topology, although twisted pair cables are more commonly found. 
+The topology in which computers or various electronic devices are directly interconnected through a hub, switch or host computer is known as Star topology. Computers connected here exchange data with the hub, switch or host computer. As a result, less time is required for signal exchange and less chance of signal collision Signal Flow is bidirectional. It is easier to identify problems as there is a central computer. Various types of cables are used in this topology, although twisted pair cables are more commonly used.
     <br>
     <br>
 <b><u>Advantages</u></b>:
@@ -164,9 +161,9 @@ The topology in which computers or various electronic devices are directly inter
 <li>Even if one node gets disconnected, 
      the other networks remain functional.</li> 
 <li>As analysis of traffic is easy, the 
-     topology poses great high data 
+     topology poses great data 
      security.</li>
-<li>Even if number of computers 
+<li>Even if the  number of computers 
     increases, the speed of data 
     transmission remains normal.</li> 
 <li>The centralized network management     system helps in monitoring the network.</li>
@@ -179,7 +176,7 @@ The topology in which computers or various electronic devices are directly inter
 <li>If the hub or central computer is 
    down, the entire network becomes 
    useless.</li>
-<li>Each node requires a separate table 
+<li>Each node requires a separate cable 
     so the cost is relatively high.</li>
 <li>Networked computers are not able to 
     directly exchange information.</li>
@@ -190,12 +187,12 @@ The topology in which computers or various electronic devices are directly inter
    
    <h1 align="center">Tree Topolgy<br></h1>
   
-In a tree topology, computers or nodes are arranged and connected to each other like branches of a tree. Also known as hierarchical structure of computer network. An extended form of star network. It consists of multiple tiers of computer connected to a central host computer. Different levels of devices are connected to this host computer through network hub or switches according to hierarchy. In this a arrangement, each layers of computer acts as an intermediate host of the text layer's computers. A computer after which no other computer is connected is known as peripheral terminal. Networks of tree topology are easily expandable. In this case the data flow in bidirectional.
+In a tree topology, computers or nodes are arranged and connected to each other like branches of a tree. Also known as hierarchical structure of computer network. An extended form of star network. It consists of multiple tiers of computer connected to a central host computer. Different levels of devices are connected to this host computer through network hub or switches according to hierarchy. In this arrangement, each layers of computer acts as an intermediate host of the next layer's computers. A computer after which no other computer is connected is known as peripheral terminal. Networks of tree topology are easily expandable. In this case the data flow is bidirectional.
     <br>
     <br>
 <b><u>Advantages</u></b>:
 <ol type="1">
-<li>It's network can easily be expanded by 
+<li>The network can easily be expanded by 
      creating new branches at any time.</li>
 <li>Offers advantages over other 
      topologies in building large networks.</li> 
@@ -210,7 +207,7 @@ In a tree topology, computers or nodes are arranged and connected to each other 
 <b><u>Disadvantages</u></b>:
 <ol type="1">
 <li>Damage of main computer, damages the entire network.</li> 
-<li>This topology is quite critical.</li>
+<li>This topology is quite critical to setup.</li>
 <li>Cost is relatively high and difficult to configure.</li>
 </ol>
 <br>
@@ -219,7 +216,7 @@ In a tree topology, computers or nodes are arranged and connected to each other 
 
   <h1 align="center">Mesh Topolgy<br></h1>
 
-A topology when one computer is directly networked with every other computers. Does not require a central server. Relatively fast data exchange. The mutual connection between these networked computes is calad point-to-point link. Also known as completely interconnected topology. This topology is very expensive as a lot of cables are required and has a really complex configuration. The total number of cables can be found by using the formula :  n(n-1)\2. Where 'n' is the total number of devices in a connection. Mesh topology is used in cases where reliability of data communication is important, such as defense or banking.
+A topology when one computer is directly networked with every other computers. Does not require a central server. Relatively fast data exchange. The mutual connection between these networked computes is calad point-to-point link. Also known as completely interconnected topology. This topology is very expensive as a lot of cables are required and has a really complex   configuration. The total number of cables can be found by using the formula :  n(n-1)\2. Where 'n' is the total number of devices in a connection. Mesh topology is used in cases where reliability of data communication is important, such as defense or banking.
     <br>
     <br>
 <b><u>Advantages</u></b>:
@@ -265,7 +262,7 @@ An open wireless technology standard for transmitting electronic data over short
         
  <h3 align="center">Bandwidth</h3>
 
-A synonym often used for data transmission speed. The maximum rate of data or bit transmitted per second is usually expressed in bps (bit per second)
+Bandwidth is a synonym often used for data transmission speed. The maximum rate of data or bit transmitted per second is usually expressed in bps (bit per second)
 <br>3 types of bandwidth:
 <br>
 <br>
@@ -288,7 +285,7 @@ Data communication has two types of data transmission:
    Refers to the mechanism of transferring data between two devices connected over network. This modes direct the direction of flow of information, also known as communication mode.
 <br>
 <b>2. Data transmission flow</b><br>
-There are three types of data transmission more depending on the flow of data transmission.
+There are three types of data transmission mode depending on the flow of data transmission.
 <br>
 <br>
 <h3 align="center">Data Transmission flow</h3>
@@ -301,17 +298,17 @@ There are three types of data transmission more depending on the flow of data tr
  <tr>
    <td>One side can only send another side can only receive</td>
    <td>Both sides can send and receive data but not at the same time</td>
-   <td>Both sides can send on receive data also at the same time</td>
+   <td>Both sides can send and receive data also at the same time</td>
   </tr>
   <tr>
     <td>Ensuring data transmission or requesting re-transmission is not possible</td>
     <td>Technically not enriched in process</td>
-    <td>Technical enriched process</td>
+    <td>Technically enriched process</td>
   </tr>
   <tr>
-    <td>Television, radio, keyboard, mouse</td>
-    <td>Walkie-Talkie, Internet browsing</td>
-    <td>Mobile, Telephone, Network communications</td>
+    <td>Television, radio, keyboard, mouse etc</td>
+    <td>Walkie-Talkie, Internet browsing etc</td>
+    <td>Mobile, Telephone, Network communications etc</td>
   </tr>
 
 </table>
@@ -330,9 +327,9 @@ There are three types of data transmission more depending on the flow of data tr
    <td>Can only be Half-Duplex</td>
   </tr>
   <tr>
-    <td>One sender sends data to many receiver one at the time.</td>
+    <td>One sender sends data to many receiver but one at the time.</td>
     <td>One sender send the same data to all the receivers.</td>
-    <td>Sender sends data to all the receivers, but the receiever can choose which to receieve the data or not</td>
+    <td>Sender sends data to all the receivers, but the receiever can choose to receieve the data or not</td>
   </tr>
   <tr>
     <td>Pager, file transferring</td>
@@ -356,9 +353,9 @@ There are three types of data transmission more depending on the flow of data tr
  
  <tr>
    <td>1979-1990, started in USA.</td>
-   <td>1990-2000, Commercially lounched in Finland by Radiolinja in 1991.</td>
+   <td>1990-2000, Commercially launched in Finland by Radiolinja in 1991.</td>
    <td>2001-2008, First introduced by japanese company NTT Docamo.</td>
-   <td>2009-still, First started in Soutd Korea.</td>
+   <td>2009-still, First started in South Korea.</td>
  </tr>
  
  <tr>
@@ -391,7 +388,7 @@ There are three types of data transmission more depending on the flow of data tr
  
  <tr>
    <td>Data transfer rate around (2.4-14.4) kbps</td>
-   <td>Data transfer rate around 14.4+ kbps</td>
+   <td>Data transfer rate 14.4+ kbps</td>
    <td>Data transfer rate 3+ Mbps</td>
    <td>Data transfer rate can cross 100 Mbps</td>
  </tr>
