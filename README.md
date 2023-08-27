@@ -30,8 +30,8 @@
       breaking a line in a parah
     </p> 
    
-   <p>
-    <table border="1" width="100%">    
+  
+   <table border="1" width="100%">    
      
    <tr align="left">
        <th>Heading</th>
@@ -61,10 +61,10 @@
     communication</sub>
     </h1>
    <h1 align="center">Topologies</h1>
-    </p>
-    <p>
+    
+   <p>
                              
-<hr>
+   <hr>
 
    <h1 align="center">Bus Topolgy<br></h1>
 
