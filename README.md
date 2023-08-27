@@ -1,19 +1,16 @@
 <html>
-<body>
-    <font size="+3">     
-    
     <title>ICT</title>
-    <h1 align="center">MrRabbit's Domain</h1>
-
-<a href="https://github.com/RabbitJahir/RabbitJahir.github.io/blob/761f71626203da2f96d043d6680e243c32f9644c/IAmDelicious.jpg">Click here</a>
-    
-    <h1 align="center">IcT Ch-4<sub>html</sub>
+<body>
+ 
+<font size="+3">     
+    <p>
+    <h1 align="center">MrRabbits Domain</h1>
+    <h1 align="center">IcT Ch4<sub>html</sub>
     </h1>
-  
     <h2 align="right">1 to 6 headings</h2>
     <h6 align="right">h1 the largest and h6   
     the smallest</h6>
-
+    </p>
     <p>
       p = parah
     </p>
@@ -22,7 +19,6 @@
       <i>Italian(i)</i> 
       <u>Underline(u)</u><br>
     </p>
- 
     <p>
       (sup) is the upper <sup>limit</sup>
       <br>
@@ -32,44 +28,40 @@
       br stands for break, 
       <br>
       breaking a line in a parah
-    </p>
-    
-    
-    <table border="1" style="width:100%"  
-    height="200px" >
+    </p> 
+   
+   <p>
+    <table border="1">    
      
-        
-     <tr align="left">
+   <tr align="left">
        <th>Heading</th>
        <th>One in bold</th>
        <th>(tr) is table row</th>  
      </tr>
-     
-     <tr align="center">
+    
+   <tr align="center">
        <td>(td)</td>
        <td>is the</td>
        <td>table data</td>
-     </tr>
+     </tr> 
      
-     <tr align="right">
+   <tr align="right">
        <td>align is</td>
        <td>the position</td>
-       <td>of the texts</td>
-       
-     <tr>
+       <td>of the texts</td>    
+     
+   <tr>
        <td align="left">left</td>
        <td align="center">center</td>
        <td align="right">right</td>
-     </tr>
-         
-     </tr>
-    </table>
+     </tr>       
+    </table>    
     
-    <h1 align="center">IcT Ch-2<sub>Data      
+   <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
     </h1>
-    <h1 align="center">Topologies</h1>
-    
+   <h1 align="center">Topologies</h1>
+    </p>
     <p>
                              
 <hr>
