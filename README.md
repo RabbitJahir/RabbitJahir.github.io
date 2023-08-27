@@ -436,6 +436,53 @@ There are three types of data transmission more depending on the flow of data tr
 </table>
 </p>
 
+<p>
+ <h3 align="center">Transmission</h3>
+
+<table border="1" width="100%">
+
+ <tr>
+   <th>Parallel Transmission</th> 
+   <th>Serial Transmission</th> 
+ </tr>
+ 
+ <tr>
+   <td>The data transmission process in which all the bits of a character of the device that are near one another, transforms to the same clock pulse in a parallel way at the same time.</td>
+   <td>The data transmission process in which the bits of the character does not transmit together but transmits among the device serially.</td>
+ </tr> 
+ 
+ <tr>
+   <td>8-bit code</td>
+   <td>1-bit code</td>
+ </tr>
+ 
+ <tr>
+   <td>Expensive but easy to install.</td>
+   <td>Cheap but hard to install</td>
+ </tr>
+ 
+ <tr>
+   <td>Used in short distance.</td>
+   <td>Used in longer distance.</td>
+ </tr>
+ 
+ <tr>
+   <td>Travels in different time.</td>
+   <td>Travels at the same time.</td>
+ </tr>
+ 
+ <tr>
+   <td>Data moves really fast.</td>
+   <td>Data moves at a decent speed.</td>
+ </tr>
+ 
+  <tr>
+   <td>Consists of multiple data line.</td>
+   <td>Consists of single data line.</td>
+ </tr>
+  
+</p>
+
 </font>
 </body>
 </html>
