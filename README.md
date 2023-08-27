@@ -55,8 +55,7 @@
        <td align="center">center</td>
        <td align="right">right</td>
      </tr>       
-    
-   </table>    
+    </table>    
     
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
@@ -287,7 +286,7 @@ A synonym often used for data transmission speed. The maximum rate of data or bi
 Data communication has two types of data transmission:
 <br>
 <br>
-<b>1. Date transmission mode:</b><br>
+<b>1. Data transmission mode:</b><br>
    Refers to the mechanism of transferring data between two devices connected over network. This modes direct the direction of flow of information, also known as communication mode.
 <br>
 <b>2. Data transmission flow</b><br>
