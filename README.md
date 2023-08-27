@@ -5,7 +5,7 @@
     <title>ICT</title>
     <h1 align="center">MrRabbit's Domain</h1>
 
-<a href="https://github.com/RabbitJahir/RabbitJahir.github.io/blob/761f71626203da2f96d043d6680e243c32f9644c/IAmDelicious.jpg">Click here<>/a<
+<a href="https://github.com/RabbitJahir/RabbitJahir.github.io/blob/761f71626203da2f96d043d6680e243c32f9644c/IAmDelicious.jpg">Click here</a>
     
     <h1 align="center">IcT Ch-4<sub>html</sub>
     </h1>
