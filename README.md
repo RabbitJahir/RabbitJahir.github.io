@@ -437,9 +437,8 @@ There are three types of data transmission more depending on the flow of data tr
 </p>
 
 <p>
- <h3 align="center">Transmission</h3>
-
-<table border="1" width="100%">
+<h3 align="center">Transmission</h3>
+ <table border="1" width="100%">
 
  <tr>
    <th>Parallel Transmission</th> 
@@ -479,9 +478,9 @@ There are three types of data transmission more depending on the flow of data tr
   <tr>
    <td>Consists of multiple data line.</td>
    <td>Consists of single data line.</td>
- </tr>
+  </tr>
   
-</p>
+ </p>
 
 </font>
 </body>
