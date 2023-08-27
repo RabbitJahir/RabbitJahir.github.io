@@ -354,7 +354,7 @@ There are three types of data transmission more depending on the flow of data tr
 
 <p>
 <h3 align="center">Mobile Generations</h3>
-<table border="1" widtd="100%">
+<table border="1" width="100%">
 
  <tr>
    <th>1G</th> 
