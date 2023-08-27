@@ -1,20 +1,19 @@
 <html>
-    <title>ICT</title>
 <body>
- 
-<font size="+3">     
-    <p>
+ <font size="+3">     
+    
+   <p>
     <h1 align="center">MrRabbits Domain</h1>
     <h1 align="center">IcT Ch4<sub>html</sub>
     </h1>
     <h2 align="right">1 to 6 headings</h2>
     <h6 align="right">h1 the largest and h6   
     the smallest</h6>
-    </p>
-    <p>
+   </p>
+   <p>
       p = parah
-    </p>
-    <p> 
+   </p>
+   <p> 
       <b>Bold(b)</b> 
       <i>Italian(i)</i> 
       <u>Underline(u)</u><br>
