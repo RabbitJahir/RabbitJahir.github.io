@@ -1,4 +1,4 @@
-<a href="page2.html">Page 2</a>
+<a href="https://github.com/RabbitJahir/RabbitJahir.github.io/blob/Page-2/README.md">Page 2</a>
 <html>
 <body>
     
