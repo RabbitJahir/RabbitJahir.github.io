@@ -469,6 +469,20 @@ There are three types of data transmission mode depending on the flow of data tr
   </tr>
  </p>
 
+ <p>
+     <b>•Why mobile phone is called cell phone?</b><br><br>
+   -To establish a mobile network the whole area is divided into hexagonal honeycomb structure called cells. Each cell contains a base station from where network is sent and received.<br><br>
+   
+   <b>•Cellular phone:</b><br>
+   -GSM(Global System for Mobile communication)<br>
+   •Worlds most popular mobile network technology.<br>
+   •Covered with over 90% golbal market share.<br>
+   •It provides an efficient & effective frequency range.<br><br>
+   -CDMA(Code Division Multiple Access)<br>
+   •High standard security system.<br>
+   •Transmission quality is high.<br>
+ </p>
+
 </font>
 </body>
 </html>
