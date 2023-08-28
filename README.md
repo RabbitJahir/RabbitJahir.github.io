@@ -483,9 +483,3 @@ There are three types of data transmission mode depending on the flow of data tr
    •High standard security system.<br>
    •Transmission quality is high.<br>
  </p>
-
-</font>
-</body>
-</html>
-
-
