@@ -32,7 +32,7 @@
    
    <p>
    
-   <table border="1">    
+  <table border="1">    
      
    <tr align="left">
        <th>Heading</th>
@@ -289,7 +289,7 @@ There are three types of data transmission mode depending on the flow of data tr
 <br>
 <br>
 <h3 align="center">Data Transmission flow</h3>
-<table border="1">
+ <table border="1">
  <tr>
    <th>Simplex</th>
    <th>Half-Duplex</th>
