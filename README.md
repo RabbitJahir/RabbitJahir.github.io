@@ -467,6 +467,7 @@ There are three types of data transmission mode depending on the flow of data tr
    <td>Consists of multiple data line.</td>
    <td>Consists of single data line.</td>
   </tr>
+</table>
  </p>
 
  <p>
