@@ -28,10 +28,9 @@
       br stands for break, 
       <br>
       breaking a line in a parah
-    </p> 
-   
+    </p>
+
    <p>
-   
   <table border="1">    
      
    <tr align="left">
@@ -61,9 +60,10 @@
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
     </h1>
+    </p>
+   
    <h1 align="center">Topologies</h1>
-</p>
-    
+   
    <p>
                              
    <hr>
