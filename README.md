@@ -471,7 +471,7 @@ There are three types of data transmission mode depending on the flow of data tr
  </p>
 
  <p>
-     <b>•Why mobile phone is called cell phone?</b><br><br>
+     <br><b>•Why mobile phone is called cell phone?</b><br><br>
    -To establish a mobile network the whole area is divided into hexagonal honeycomb structure called cells. Each cell contains a base station from where network is sent and received.<br><br>
    
    <b>•Cellular phone:</b><br>
