@@ -55,7 +55,8 @@
        <td align="center">center</td>
        <td align="right">right</td>
      </tr>       
-    </table>    
+    </table> 
+    <hr>
     
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
