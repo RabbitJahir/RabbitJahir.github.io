@@ -1,3 +1,4 @@
+<a href="page2.html">Page 2</a>
 <html>
 <body>
     
