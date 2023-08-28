@@ -1,4 +1,3 @@
-<a href="Home-page">ict</a>
 <html>
 <body>
     
