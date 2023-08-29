@@ -10,7 +10,9 @@
      <p style="background-color:blue">
 <font size="+3">
   
-   <h1 align="center">MrRabbits Domain</h1>
- <hr style="height: 2px; color: #FF0000;">
+   <h1 align="center">MrRabbits Domain</h>
+
+   hr.new1 {
+  border-top: 1px solid red;
+}
   
- 
