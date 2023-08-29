@@ -7,12 +7,14 @@
      
 <html>
 <body>
-     <p style="background-color:blue">
+     <p>
 <font size="+3">
   
    <h1 align="center">MrRabbits Domain</h>
 
-   hr.new1 {
-  border-top: 1px solid red;
-}
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+</p>
+
+   
   
