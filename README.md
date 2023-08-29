@@ -1,3 +1,5 @@
+<!DOCTYPE HTML5>
+
 <a href="Home-page">Home page</a>
 
 <html>
