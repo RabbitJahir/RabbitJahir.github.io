@@ -12,6 +12,4 @@
    <h1 align="center">MrRabbits Domain</h1>
  
   </p>
- </font>
- </body>
- </html>
+ 
