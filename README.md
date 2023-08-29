@@ -1,13 +1,15 @@
-<a href="Home-page"><Home page</a>
+<a href="Home-page">Home page</a>
 
 <html>
 <body>
+ <p style="background-color:blue">
     
  <font size="+3">     
-    string.replace(hr, hr size="8" color="red")
+    
    <p>
-<h1 align="center">ICT</h1>
-   <h1 align="center">Ch4<sub>html</sub>/</h1>
+    <h1 align="center">MrRabbits Domain</h1>
+    <h1 align="center">IcT Ch4<sub>html</sub>
+    </h1>
     <h2 align="right">1 to 6 headings</h2>
     <h6 align="right">h1 the largest and h6   
     the smallest</h6>
@@ -16,7 +18,7 @@
       p = parah
    </p>
    <p> 
-      <b>Bold(b)</b> 
+      <b>Bold(b)</b> #ff005e
       <i>Italian(i)</i> 
       <u>Underline(u)</u><br>
     </p>
@@ -33,7 +35,7 @@
    
    <p>
    
-   <table border="1" width="100%">    
+   <table border="1">    
      
    <tr align="left">
        <th>Heading</th>
@@ -57,7 +59,9 @@
        <td align="center">center</td>
        <td align="right">right</td>
      </tr>       
-    </table>    
+    </table> 
+    
+    <hr size="8" color="red" size="8" color="red"#fffc40>
     
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
@@ -67,7 +71,7 @@
     
    <p>
                              
-   <hr>
+   <hr size="8" color="red">
 
    <h1 align="center">Bus Topolgy<br></h1>
 
@@ -105,11 +109,11 @@ The data flow is bidirectional. When sending data, the sender computer sends the
 </ol>
 <br>
 
-<hr>
+<hr size="8" color="red">
 
   <h1 align="center">Ring Topology<br></h1>
 
-The physical ring topology in which the computer nodes are connected to each other in a circular loop of point to point links. Each computer connected gets equal right to transmitted data. There is no central computer in this topology. When a data is sent it keeps going in a circle to the same direction untill it goes through a loop. The First computer in this network is connected to the last computer. 
+The physical ring topology in which the computer nodes are connected to each other in a circular loop of point to point links. Each computer connected gets equal right to transmitted data. There is no central computer in this topology. When a data is sent it keeps going in a circle to the same direction untill it goes thr size="8" color="red"ough a loop. The First computer in this network is connected to the last computer. 
     <br>
     <br>
 <b><u>Advantages</u></b>:
@@ -144,12 +148,12 @@ The physical ring topology in which the computer nodes are connected to each oth
     <br>
 
                              
-<hr>
+<hr size="8" color="red">
 
   
    <h1 align="center">Star Topolgy<br></h1>    
 
-The topology in which computers or various electronic devices are directly interconnected through a hub, switch or host computer is known as Star topology. Computers connected here exchange data with the hub, switch or host computer. As a result, less time is required for signal exchange and less chance of signal collision Signal Flow is bidirectional. It is easier to identify problems as there is a central computer. Various types of cables are used in this topology, although twisted pair cables are more commonly used.
+The topology in which computers or various electronic devices are directly interconnected thr size="8" color="red"ough a hub, switch or host computer is known as Star topology. Computers connected here exchange data with the hub, switch or host computer. As a result, less time is required for signal exchange and less chance of signal collision Signal Flow is bidirectional. It is easier to identify problems as there is a central computer. Various types of cables are used in this topology, although twisted pair cables are more commonly used.
     <br>
     <br>
 <b><u>Advantages</u></b>:
@@ -184,11 +188,11 @@ The topology in which computers or various electronic devices are directly inter
 </ol>   
 <br>
    
-<hr>
+<hr size="8" color="red">
    
    <h1 align="center">Tree Topolgy<br></h1>
   
-In a tree topology, computers or nodes are arranged and connected to each other like branches of a tree. Also known as hierarchical structure of computer network. An extended form of star network. It consists of multiple tiers of computer connected to a central host computer. Different levels of devices are connected to this host computer through network hub or switches according to hierarchy. In this arrangement, each layers of computer acts as an intermediate host of the next layer's computers. A computer after which no other computer is connected is known as peripheral terminal. Networks of tree topology are easily expandable. In this case the data flow is bidirectional.
+In a tree topology, computers or nodes are arranged and connected to each other like branches of a tree. Also known as hierarchical structure of computer network. An extended form of star network. It consists of multiple tiers of computer connected to a central host computer. Different levels of devices are connected to this host computer thr size="8" color="red"ough network hub or switches according to hierarchy. In this arrangement, each layers of computer acts as an intermediate host of the next layer's computers. A computer after which no other computer is connected is known as peripheral terminal. Networks of tree topology are easily expandable. In this case the data flow is bidirectional.
     <br>
     <br>
 <b><u>Advantages</u></b>:
@@ -213,7 +217,7 @@ In a tree topology, computers or nodes are arranged and connected to each other 
 </ol>
 <br>
 
-<hr>
+<hr size="8" color="red">
 
   <h1 align="center">Mesh Topolgy<br></h1>
 
@@ -245,12 +249,12 @@ A topology when one computer is directly networked with every other computers. D
     configuration is very complex.</li></ol>
     <br>
         
-<hr>
+<hr size="8" color="red">
 
   <h1 align="center">Hybrid Topolgy<br></h1>
    Hybrid
         
-<hr>
+<hr size="8" color="red">
 
  </p>
     
@@ -286,7 +290,7 @@ Data communication has two types of data transmission:
    Refers to the mechanism of transferring data between two devices connected over network. This modes direct the direction of flow of information, also known as communication mode.
 <br>
 <b>2. Data transmission flow</b><br>
-There are three types of data transmission mode depending on the flow of data transmission.
+There are thr size="8" color="red"ee types of data transmission mode depending on the flow of data transmission.
 <br>
 <br>
 <h3 align="center">Data Transmission flow</h3>
@@ -425,8 +429,8 @@ There are three types of data transmission mode depending on the flow of data tr
 </table>
 </p>
 
-<p>
-<h3 align="center">Transmission</h3>
+
+  <h3 align="center">Transmission</h3>
  <table border="1" width="100%">
 
  <tr>
@@ -468,11 +472,11 @@ There are three types of data transmission mode depending on the flow of data tr
    <td>Consists of multiple data line.</td>
    <td>Consists of single data line.</td>
   </tr>
-</table>
- </p>
-
+ 
+ </table>
+ 
  <p>
-     <br><b>•Why mobile phone is called cell phone?</b><br><br>
+    <br><b>•Why mobile phone is called cell phone?</b><br><br>
    -To establish a mobile network the whole area is divided into hexagonal honeycomb structure called cells. Each cell contains a base station from where network is sent and received.<br><br>
    
    <b>•Cellular phone:</b><br>
