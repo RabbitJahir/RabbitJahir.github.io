@@ -10,6 +10,6 @@
 <font size="+3">
   
    <h1 align="center">MrRabbits Domain</h1>
- 
+ <hr size="8" color="red">
   </p>
  
