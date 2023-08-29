@@ -11,6 +11,6 @@
 <font size="+3">
   
    <h1 align="center">MrRabbits Domain</h1>
- <hr style="height: 2px; color: #FF0000">
+ <hr style="height: 2px; color: #FF0000;">
   
  
