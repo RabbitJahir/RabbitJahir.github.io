@@ -61,7 +61,7 @@
      </tr>       
     </table> 
     
-    <hr size="8" color="red" size="8" color="red"#fffc40>
+   <hr size="8" color="red">
     
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
