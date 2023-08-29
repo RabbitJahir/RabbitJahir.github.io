@@ -4,7 +4,7 @@
 <body>
     
  <font size="+3">     
-    
+    string.replace(hr, hr size="8" color="red")
    <p>
 <h1 align="center">ICT</h1>
    <h1 align="center">Ch4<sub>html</sub>/</h1>
