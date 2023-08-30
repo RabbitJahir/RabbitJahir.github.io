@@ -4,8 +4,8 @@
 
 <html>
 <body>
- <p style="background-color:blue">
-    
+ <p>
+ 
  <font size="+3">     
     
    <p>
@@ -63,7 +63,7 @@
      </tr>       
     </table> 
     
-   <hr size="8" color="red">
+    <hr style="height:8px;border-width:0;color:red;background-color:red">
     
    <h1 align="center">IcT Ch-2<sub>Data      
     communication</sub>
@@ -73,7 +73,8 @@
     
    <p>
                              
-   <hr size="8" color="red">
+   <hr style="height:8px;border-width:0;color:red;background-color:red">
+   
 
    <h1 align="center">Bus Topolgy<br></h1>
 
@@ -111,7 +112,7 @@ The data flow is bidirectional. When sending data, the sender computer sends the
 </ol>
 <br>
 
-<hr size="8" color="red">
+<hr style="height:8px;border-width:0;color:red;background-color:red">
 
   <h1 align="center">Ring Topology<br></h1>
 
@@ -150,7 +151,7 @@ The physical ring topology in which the computer nodes are connected to each oth
     <br>
 
                              
-<hr size="8" color="red">
+<hr style="height:8px;border-width:0;color:red;background-color:red">
 
   
    <h1 align="center">Star Topolgy<br></h1>    
@@ -190,7 +191,7 @@ The topology in which computers or various electronic devices are directly inter
 </ol>   
 <br>
    
-<hr size="8" color="red">
+<hr style="height:8px;border-width:0;color:red;background-color:red">
    
    <h1 align="center">Tree Topolgy<br></h1>
   
@@ -219,7 +220,7 @@ In a tree topology, computers or nodes are arranged and connected to each other 
 </ol>
 <br>
 
-<hr size="8" color="red">
+<hr style="height:8px;border-width:0;color:red;background-color:red">
 
   <h1 align="center">Mesh Topolgy<br></h1>
 
@@ -251,12 +252,12 @@ A topology when one computer is directly networked with every other computers. D
     configuration is very complex.</li></ol>
     <br>
         
-<hr size="8" color="red">
+<hr style="height:8px;border-width:0;color:red;background-color:red">
 
   <h1 align="center">Hybrid Topolgy<br></h1>
    Hybrid
         
-<hr size="8" color="red">
+<hr style="height:8px;border-width:0;color:red;background-color:red">
 
  </p>
     
@@ -490,7 +491,7 @@ There are thr size="8" color="red"ee types of data transmission mode depending o
    •High standard security system.<br>
    •Transmission quality is high.<br>
  </p>
-
+ 
 </font>
 </body>
 </html>
