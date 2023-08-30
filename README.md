@@ -20,7 +20,7 @@
       p = parah
    </p>
    <p> 
-      <b>Bold(b)</b> #ff005e
+      <b>Bold(b)</b> 
       <i>Italian(i)</i> 
       <u>Underline(u)</u><br>
     </p>
